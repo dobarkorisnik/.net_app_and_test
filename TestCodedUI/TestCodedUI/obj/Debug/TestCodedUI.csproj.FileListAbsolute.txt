@@ -1,0 +1,4 @@
+C:\Users\Spasov\Documents\Visual Studio 2012\Projects\TestCodedUI\TestCodedUI\bin\Debug\TestCodedUI.dll
+C:\Users\Spasov\Documents\Visual Studio 2012\Projects\TestCodedUI\TestCodedUI\bin\Debug\TestCodedUI.pdb
+C:\Users\Spasov\Documents\Visual Studio 2012\Projects\TestCodedUI\TestCodedUI\obj\Debug\TestCodedUI.dll
+C:\Users\Spasov\Documents\Visual Studio 2012\Projects\TestCodedUI\TestCodedUI\obj\Debug\TestCodedUI.pdb
