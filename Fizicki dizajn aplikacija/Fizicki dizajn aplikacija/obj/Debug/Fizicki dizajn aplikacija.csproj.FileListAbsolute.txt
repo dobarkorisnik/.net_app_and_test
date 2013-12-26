@@ -1,5 +1,0 @@
-C:\Users\Spasov\Documents\Visual Studio 2012\Projects\Fizicki dizajn aplikacija\Fizicki dizajn aplikacija\bin\Fizicki dizajn aplikacija.dll
-C:\Users\Spasov\Documents\Visual Studio 2012\Projects\Fizicki dizajn aplikacija\Fizicki dizajn aplikacija\bin\Fizicki dizajn aplikacija.pdb
-C:\Users\Spasov\Documents\Visual Studio 2012\Projects\Fizicki dizajn aplikacija\Fizicki dizajn aplikacija\obj\Debug\Fizicki dizajn aplikacija.dll
-C:\Users\Spasov\Documents\Visual Studio 2012\Projects\Fizicki dizajn aplikacija\Fizicki dizajn aplikacija\obj\Debug\Fizicki dizajn aplikacija.pdb
-C:\Users\Spasov\Documents\Visual Studio 2012\Projects\Fizicki dizajn aplikacija\Fizicki dizajn aplikacija\obj\Debug\Fizicki dizajn aplikacija.csprojResolveAssemblyReference.cache
